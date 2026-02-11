@@ -37,14 +37,8 @@ To-Do-List/
 
 1. Open `index.html` in your browser  
 2. Add your tasks  
-3. Mark completed tasks  
-4. Delete tasks when finished  
+3. Delete tasks when finished  
 
----
-
-## 📸 Preview
-
-You can add a screenshot of your project here later.
 
 ---
 
@@ -54,6 +48,7 @@ You can add a screenshot of your project here later.
 Front-End Developer  
 
 GitHub: https://github.com/Shimaa-Nashat
+
 
 
 
