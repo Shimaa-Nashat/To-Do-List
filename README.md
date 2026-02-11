@@ -7,10 +7,7 @@ A simple and responsive To-Do List web application that helps users manage daily
 ## 🚀 Features
 
 - ➕ Add new tasks  
-- ✅ Mark tasks as completed  
-- ❌ Delete tasks  
-- 💾 Save tasks using Local Storage  
-- 📱 Fully responsive design  
+- ❌ Delete tasks    
 
 ---
 
@@ -57,5 +54,6 @@ You can add a screenshot of your project here later.
 Front-End Developer  
 
 GitHub: https://github.com/Shimaa-Nashat
+
 
 
